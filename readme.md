@@ -1,3 +1,5 @@
+EDIT: This isn't gonna work, since the contents aren't __really__ encrypted, so onces they are public once pushed to this repo :facepalm:
+
 Hosts the password-protected docs.
 
 In a different, private repo:
