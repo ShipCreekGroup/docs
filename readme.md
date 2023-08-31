@@ -1,4 +1,6 @@
-EDIT: This isn't gonna work, since the contents aren't __really__ encrypted, so onces they are public once pushed to this repo :facepalm:
+EDIT: This isn't gonna work, since the contents aren't __really__ encrypted, they are just placed under hashed file names.
+So someone could just look through this source code (which has to be public for GH pages to work)
+and they will be able to find the content (under weird directory names, but still...) :facepalm:
 
 Hosts the password-protected docs.
 
